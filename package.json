@@ -1,0 +1,16 @@
+{
+  "name": "n64",
+  "version": "1.0.0",
+  "description": "A nintendo64 interface using project64 as emulator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Henry Pap",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "electron": "^2.0.0",
+    "node-cmd": "^3.0.0"
+  }
+}
